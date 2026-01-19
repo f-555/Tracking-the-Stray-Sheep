@@ -1,5 +1,6 @@
-Temporary repository for our WWW2026 submission: Tracking the Stray Sheep
+# Tracking the Stray Sheep: Understanding DNS Response Manipulation in the Wild
 
-Contains our anonymized detection results
+Wenhao Wu, Zhaohua Wang, Zihan Li, Qinxin Li, Yiming Xia, Chuan Gao, Guangxing Zhang and Zhenyu Li. Tracking the Stray Sheep: Understanding DNS Response Manipulation in the Wild. In Proceedings of the ACM Web Conference 2026 (WWW ’26)
 
-Remaining artifacts will be released after peer-review
+---
+For ethical considerations, specific IP information is anonymized. If you have any further questions, please contact wuwenhao22s@ict.ac.cn.
