@@ -1,0 +1,1 @@
+your.dns.ipv4.address;{"original_domain":"amazon.de","steps":[{"domain":"amazon.de","final_ns_names":["ns2.amzndns.org","ns1.amzndns.co.uk","ns1.amzndns.com","ns1.amzndns.net","ns1.amzndns.org","ns2.amzndns.co.uk","ns2.amzndns.com","ns2.amzndns.net"],"final_answer":["52.95.120.34","54.239.39.102","176.32.108.185"],"cname_target":null}]}
